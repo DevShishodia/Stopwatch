@@ -67,7 +67,7 @@ start_btn.addEventListener('click',function(){
            
          
           
-        },0) ;
+        },10) ;
 });
 
 
